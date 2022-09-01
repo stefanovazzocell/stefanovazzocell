@@ -1,0 +1,13 @@
+# Hello, I'm Stefano
+
+Hi, I'm Stefano - a Software Engineer currently working with the Cloud Security team at [Cisco](https://cisco.com/).
+
+On my free time I like ⛷️ skiing, 🥾 hiking, 🧳 traveling, and 👨‍💻 working on open source personal projects.
+
+Talk to me about privacy, security, networking, and Go.
+
+---
+
+Code committed from my personal account is my own.
+
+Check out my site: [stefanovazzoler.com](https://stefanovazzoler.com).
