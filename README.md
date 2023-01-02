@@ -10,4 +10,4 @@ Talk to me about privacy, security, networking, and Go.
 
 Code committed from my personal account is my own.
 
-Check out my site: [stefanovazzoler.com](https://stefanovazzoler.com).
+Check out my site: [stefanovazzoler.com](https://stefanovazzoler.com). I'm also on <a href="https://mastodon.social/@svazzoler" rel="me" target="_blank">Mastodon</a>.
