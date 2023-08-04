@@ -4,7 +4,7 @@ Hi, I'm Stefano - a Software Engineer currently working with the Cloud Security 
 
 On my free time I like ⛷️ skiing, 🥾 hiking, 🧳 traveling, and 👨‍💻 working on open source personal projects.
 
-Talk with me about privacy, security, networking, and Go.
+Talk with me about distributed systems, cloud computing, networking, and security.
 
 ---
 
