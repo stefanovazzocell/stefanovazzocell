@@ -1,6 +1,6 @@
 # Hello, I'm Stefano
 
-Hi, I'm Stefano - a Software Engineer currently working with the Cloud Security team at [Cisco](https://cisco.com/).
+Hi, I'm Stefano - a Software Engineer currently working at [Google](https://google.com/).
 
 On my free time I like ⛷️ skiing, 🥾 hiking, 🧳 traveling, and 👨‍💻 working on open source personal projects.
 
